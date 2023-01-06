@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 import 'bootstrap/scss/bootstrap.scss' // Bootstrap should be imported before index.scss to not rollback overrides
